@@ -10,6 +10,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0189-rotate-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,5 @@
 | [0035-search-insert-position](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
