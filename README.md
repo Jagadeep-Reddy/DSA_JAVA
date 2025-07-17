@@ -11,6 +11,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
