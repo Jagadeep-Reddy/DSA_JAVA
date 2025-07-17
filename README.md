@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0268-missing-number) |
