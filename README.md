@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -59,5 +61,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jagadeep-Reddy/DSA_JAVA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
