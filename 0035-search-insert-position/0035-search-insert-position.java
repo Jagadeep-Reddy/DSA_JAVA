@@ -1,7 +1,8 @@
 class Solution {
     public int searchInsert(int[] nums, int target) {
         int n = nums.length;
-        int low =0;
+        int ind =0;
+        int low=0;
         int high = n-1;
         int mid =0;
         while(low<=high)
